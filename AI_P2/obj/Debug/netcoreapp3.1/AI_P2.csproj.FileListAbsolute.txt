@@ -1,0 +1,13 @@
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\bin\Debug\netcoreapp3.1\AI_P2.exe
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\bin\Debug\netcoreapp3.1\AI_P2.deps.json
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\bin\Debug\netcoreapp3.1\AI_P2.runtimeconfig.json
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\bin\Debug\netcoreapp3.1\AI_P2.runtimeconfig.dev.json
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\bin\Debug\netcoreapp3.1\AI_P2.dll
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\bin\Debug\netcoreapp3.1\AI_P2.pdb
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\obj\Debug\netcoreapp3.1\AI_P2.AssemblyInfoInputs.cache
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\obj\Debug\netcoreapp3.1\AI_P2.AssemblyInfo.cs
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\obj\Debug\netcoreapp3.1\AI_P2.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\obj\Debug\netcoreapp3.1\AI_P2.dll
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\obj\Debug\netcoreapp3.1\AI_P2.pdb
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\obj\Debug\netcoreapp3.1\AI_P2.genruntimeconfig.cache
+C:\Users\Noel\Desktop\PROJECTS\479\AI_P2\AI_P2\obj\Debug\netcoreapp3.1\AI_P2.csprojAssemblyReference.cache
